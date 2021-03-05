@@ -1,15 +1,16 @@
-id: opecha:P008052
+id: P008052
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W20085
   title: སོག་པོ་རྟ་རྫོང་།
-  volume:
+  author: ''
+  volumes:
     f889e0686c9342e58ef88b858118b343:
       image_group_id: I1KG18040
       title: Volume 1 of sog po rta rdzong /
       volume_number: 1
       total_pages: 280
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: སོག་པོ་རྟ་རྫོང་།
   author: ''
