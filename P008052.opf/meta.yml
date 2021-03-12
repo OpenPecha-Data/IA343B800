@@ -5,11 +5,12 @@ source_metadata:
   title: སོག་པོ་རྟ་རྫོང་།
   author: ''
   volumes:
-    cd6a30dbf5834cb781f8721535d10f8e:
+    f889e0686c9342e58ef88b858118b343:
       image_group_id: I1KG18040
-      title: ''
+      title: Volume 1 of sog po rta rdzong /
       volume_number: 1
       total_pages: 280
+      base_file: v001.txt
 ebook_metadata:
   title: སོག་པོ་རྟ་རྫོང་།
   author: ''
